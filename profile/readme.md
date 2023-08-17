@@ -4,7 +4,7 @@ NIEM Repo | Status | Notes
 --- | --- | ---
 **Specifications**
 [NIEM/NIEM-Code-Lists-Spec](https://github.com/NIEM/NIEM-Code-Lists-Spec) | in progress | [niemopen/code-lists-specification](https://github.com/niemopen/code-lists-specification)
-[NIEM/NIEM-Conformance-Spec](https://github.com/NIEM/NIEM-Conformance-Spec) | in progress | [niemopen/conformance-specification](https://github.com/niemopen/conformance-specification)
+[NIEM/NIEM-Conformance-Spec](https://github.com/NIEM/NIEM-Conformance-Spec) | done | [niemopen/conformance-specification](https://github.com/niemopen/conformance-specification)
 [NIEM/NIEM-Conformance-Targets-Attribute-Spec](https://github.com/NIEM/NIEM-Conformance-Targets-Attribute-Spec) | done | [niemopen/niem-conformance-targets](https://github.com/niemopen/niem-conformance-targets)
 [NIEM/NIEM-HLVA-Spec](https://github.com/NIEM/NIEM-HLVA-Spec) | retired | Information has been transferred to niem.github.io
 [NIEM/NIEM-JSON-Spec](https://github.com/NIEM/NIEM-JSON-Spec) | to be retired | Information will be transitioned to a JSON-specific binding for the NDR
